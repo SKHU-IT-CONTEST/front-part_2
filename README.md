@@ -20,7 +20,7 @@
 ### 배너가 롤링되도록 구현 하는 코드(js)<br>
 <img width="578" alt="banner js" src="https://user-images.githubusercontent.com/60088072/195991737-9802488f-6f46-427e-93f9-97754d842b8f.PNG">
 
-### 배너에 학사 정보가 출력되도록 api fetch 시기는 코드(js) <br>
+### 배너에 학사 정보가 출력되도록 api fetch한 코드(js) <br>
 <img width="556" alt="banner json" src="https://user-images.githubusercontent.com/60088072/195991981-4cec825a-595c-4f4d-a379-ed44766396c1.PNG">
 
 --------------------------
