@@ -44,5 +44,5 @@
 ## 동아리 홍보 배너 화면<br>
 <img width="150" alt="dongari(1)" src="https://user-images.githubusercontent.com/60088072/195992599-b8194548-42fc-4774-b3d1-cd9f7aefdeec.PNG">
 
-## 동아리 홍보 배너(html, css)<br>
+### 동아리 홍보 배너(html, css)<br>
 <img width="591" alt="dongari" src="https://user-images.githubusercontent.com/60088072/195993255-1768932c-bb2c-4aa1-b9f3-880a20b935b4.PNG">
